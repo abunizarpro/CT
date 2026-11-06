@@ -1,0 +1,6 @@
+{
+  "name": "CT Pool - Hashrate Defender & Crypto Vault",
+  "description": "Interactive crypto mining arcade game and real secure game wallet simulator featuring cold storage, timelocks, multisig, and DEX swaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
